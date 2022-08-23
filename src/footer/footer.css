@@ -1,0 +1,16 @@
+.foot{text-align: center;
+background-color: rgb(39, 39, 39);}
+.contact{
+    display: flex;
+
+    justify-content: space-evenly;
+    
+
+
+}
+h2,h3{color: wheat;}
+.img{
+    height: 50px;
+    width: 50px;
+    margin-bottom:20px ;
+}
